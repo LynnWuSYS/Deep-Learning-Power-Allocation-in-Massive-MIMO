@@ -24,7 +24,7 @@ function SE = functionComputeSE_DL_poweralloc(rho,signal,interference,prelogFact
 %
 %This is version 1.0 (Last edited: 2017-11-04)
 %
-%License: This code is licensed under the GPLv2 license. If you in any way
+%License: This code is licensed under none-of-it. If you in any way
 %use this code for research that results in publications, please cite our
 %monograph as described above.
 
